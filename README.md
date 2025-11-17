@@ -1,16 +1,51 @@
-# WTH THIS IS ABOUT???
-Jadi, ini adalah database kosakata bahasa kucqit dalam bentuk table sql
-tinggal clone repo ini trus jalanin di local dengan nambah tablenya ke sql lokal masing masing
+# Database Kosakata Kushtum
 
-trus buka web interfacenya, cari kata-katanya disana, untuk memudahkan penggunaan.
-jadi bisa nyari kosakata Bahasa Kucqit tanpa internet, kalo misalnya lagi gk ada internet
-offline alternative dari kamus di kushtum.fwh.is
+**Kushtum** adalah database kosakata Bahasa Kucqit ke Bahasa Indonesia yang bisa diakses secara offline dalam bentuk tabel SQL. Project ini merupakan alternatif offline dari kamus online di [kushtum.fwh.is](https://kushtum.fwh.is).
 
-nih, interfacenya gini nih:
-![Screenshot](SS.png)
+> **Catatan:** Saat ini database hanya mendukung terjemahan Bahasa Kucqit ke Bahasa Indonesia. Dukungan untuk bahasa lain akan hadir di masa mendatang!
 
-belum mencakup semua kosakata
-akan diupdate secara berkala, jadi pastikan update
+## Fitur
 
-# YEEEEY
-# UHIHA
+- **Pencarian Offline:** Cari kosakata Bahasa Kucqit kapan saja tanpa koneksi internet.
+- **Instalasi Mudah:** Clone repo ini, impor tabel ke SQL lokal, dan gunakan antarmuka web yang sudah disediakan.
+- **Update Berkala:** Kosakata akan terus diperbarui—pastikan selalu update repo ini untuk data terbaru!
+
+## Cara Penggunaan
+
+1. **Clone Repository:**
+   ```bash
+   git clone https://github.com/fogoffaith/kushtum.git
+   cd kushtum
+   ```
+2. **Impor Tabel SQL** ke database lokal kamu (lihat file SQL yang tersedia di repo).
+3. **Buka Antarmuka Web:**
+   - Jalankan antarmuka web yang ada di repo untuk mencari kosakata.
+   - Contoh tampilan antarmuka:
+     
+     ![Screenshot](SS.png)
+
+4. **Selesai!** Kini kamu bisa mencari kosakata Bahasa Kucqit tanpa internet.
+
+## Kenapa Menggunakan Kushtum?
+
+- Praktis dan cepat untuk mencari kosakata Bahasa Kucqit secara offline.
+- Cocok untuk pelajar, peneliti, atau siapa pun yang sering butuh akses kamus Bahasa Kucqit.
+
+## Keterbatasan
+
+- Database saat ini **belum mencakup semua kosakata**.
+- Update kosakata akan dilakukan secara berkala.
+
+## Kontribusi
+
+Kontribusi terbuka lebar!
+- Punya kata baru? Silakan open issue atau pull request.
+- Mau bantu mengembangkan project ini? Fork, kembangkan, lalu kirim PR.
+
+## Lisensi
+
+Project ini bersifat open source. [Tambahkan info lisensi di sini jika tersedia.]
+
+---
+
+**YEEEEEY! UHIHA!**
