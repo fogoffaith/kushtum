@@ -39,12 +39,8 @@
 ## Kontribusi
 
 Kontribusi terbuka lebar!
-- Punya kata baru? Silakan open issue atau pull request.
+- Bisa Nerjemahin ke Bahasa Lain? Silakan open issue atau pull request.
 - Mau bantu mengembangkan project ini? Fork, kembangkan, lalu kirim PR.
-
-## Lisensi
-
-Project ini bersifat open source. [Tambahkan info lisensi di sini jika tersedia.]
 
 ---
 
