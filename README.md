@@ -7,7 +7,7 @@ jadi bisa nyari kosakata Bahasa Kucqit tanpa internet, kalo misalnya lagi gk ada
 offline alternative dari kamus di kushtum.fwh.is
 
 nih, interfacenya gini nih:
-![The San Juan Mountains are beautiful](SS.jpg)
+![Screenshot](/SS.jpg)
 
 belum mencakup semua kosakata
 akan diupdate secara berkala, jadi pastikan update
