@@ -7,7 +7,7 @@ jadi bisa nyari kosakata Bahasa Kucqit tanpa internet, kalo misalnya lagi gk ada
 offline alternative dari kamus di kushtum.fwh.is
 
 nih, interfacenya gini nih:
-![Screenshot](/SS.jpg)
+![Screenshot](SS.png)
 
 belum mencakup semua kosakata
 akan diupdate secara berkala, jadi pastikan update
